@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/pycharm,jupyternotebooks,python,windows,macos,linux
-# Edit at https://www.toptal.com/developers/gitignore?templates=pycharm,jupyternotebooks,python,windows,macos,linux
+# Created by https://www.toptal.com/developers/gitignore/api/python,pycharm,jupyternotebooks,visualstudiocode,windows,linux,macos,virtualenv
+# Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm,jupyternotebooks,visualstudiocode,windows,linux,macos,virtualenv
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
@@ -345,6 +345,37 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+### VirtualEnv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+pip-selfcheck.json
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
@@ -371,7 +402,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/pycharm,jupyternotebooks,python,windows,macos,linux
+# End of https://www.toptal.com/developers/gitignore/api/python,pycharm,jupyternotebooks,visualstudiocode,windows,linux,macos,virtualenv
 
 /CNN Model/dataset/*
 /RNN Model/dataset/*
