@@ -1,4 +1,12 @@
-tensorflow==2.16.1
-keras==3.3.0
-visualkeras==0.0.2
-Pillow==9.5.0
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+pytorch-lightning
+torch
+torchvision
+visualkeras
+pillow
