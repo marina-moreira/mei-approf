@@ -353,7 +353,7 @@ pyrightconfig.json
 [Ll]ib
 [Ll]ib64
 [Ll]ocal
-[Ss]cripts
+[S]cripts
 pyvenv.cfg
 pip-selfcheck.json
 
@@ -404,5 +404,5 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,jupyternotebooks,visualstudiocode,windows,linux,macos,virtualenv
 
-/CNN Model/dataset/*
-/RNN Model/dataset/*
+/CNN/dataset/*
+/RNN/dataset/*
