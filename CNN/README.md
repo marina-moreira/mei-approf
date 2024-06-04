@@ -3,7 +3,7 @@ cd CNN
 ```
 
 ```shell
-python -m venv venv
+python -m venv .venv
 ```
 
 ```shell

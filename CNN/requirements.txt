@@ -10,3 +10,4 @@ torch
 torchvision
 visualkeras
 pillow
+seaborn

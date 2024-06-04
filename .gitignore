@@ -409,3 +409,6 @@ $RECYCLE.BIN/
 
 *.csv
 *.h5
+*.keras
+*.jpg
+*.jpeg
