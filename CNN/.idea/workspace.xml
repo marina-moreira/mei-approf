@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1495bfa4-3bc6-493a-a483-530223c90d4e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/notebooks/02-data_preprocessing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/02_CNN_model.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/data_preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/evaluate_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/train_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cnn-sports/03_models_comparison.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cnn-sports/custom_cnn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cnn-sports/custom_cnn_it_02.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cnn-sports/custom_cnn_it_03.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cnn-sports/custom_cnn_it_04.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cnn-sports/custom_cnn_it_04_01.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cnn-sports/custom_cnn_it_05.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cnn-sports/custom_cnn_it_06.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cnn-sports/custom_cnn_it_06_01.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cnn-sports/custom_cnn_it_06_02.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cnn-sports/custom_cnn_it_06_03.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cnn-sports/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00_auxilar_desenho_redes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/00_auxilar_desenho_redes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/CNN_Problem_Definition.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/CNN_Problem_Definition.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/RNN_Problem_Definition.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/RNN_Problem_Definition.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/00_introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../cnn-sports/00_introduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/01_data_understanding.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_data_understanding.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/02_data_preprocessing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/03_model_training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/03_model_training.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/05_model_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/05_model_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;marina-moreira&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/marina-moreira/mei-approf.git&quot;,
+    &quot;accountId&quot;: &quot;2516ca4c-a02e-4237-b0c4-0547772617f8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2hNV1ykmLDmdwImkafAX59Uw7ow" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/ISEP-repos/mei_aprof/cnn-sports",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ISEP-repos\mei_aprof\CNN\documentation" />
+      <recent name="D:\ISEP-repos\mei_aprof\CNN" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ISEP-repos\mei_aprof\CNN\documentation" />
+      <recent name="D:\ISEP-repos\mei_aprof\CNN\diagramas" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1495bfa4-3bc6-493a-a483-530223c90d4e" name="Changes" comment="" />
+      <created>1717434310928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717434310928</updated>
+      <workItem from="1717434312061" duration="20965000" />
+      <workItem from="1717537689357" duration="13228000" />
+      <workItem from="1717715426047" duration="30000" />
+      <workItem from="1717717175630" duration="56000" />
+      <workItem from="1717717346139" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

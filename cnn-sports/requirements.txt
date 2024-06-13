@@ -1,0 +1,9 @@
+jupyter
+scikit-learn
+tensorflow
+keras
+numpy
+pandas
+pillow==9.5.0
+matplotlib
+visualkeras
