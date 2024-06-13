@@ -407,6 +407,8 @@ $RECYCLE.BIN/
 /CNN/dataset/*
 /RNN/dataset/*
 
+/cnn-sports/data/*
+
 *.csv
 *.h5
 *.keras

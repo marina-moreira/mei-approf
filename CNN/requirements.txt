@@ -1,0 +1,13 @@
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+pytorch-lightning
+torch
+torchvision
+visualkeras
+pillow==9.5
+seaborn
